@@ -1,0 +1,73 @@
+
+body{
+	background:#007bff;  
+	
+	
+}
+
+.boxes1{
+	width:50%;
+	float:left;
+	
+	}
+	#mainDiv1{
+		width:55%;
+margin-left:210px;
+	}
+	img{
+		max-width:100%;
+		
+	}
+
+.boxes2{
+	width:50%;
+	float:left;	
+	}
+	#mainDiv2{
+		width:50%;
+	margin-left:200px;
+	margin-bottom:50px;
+	}
+	img{
+		max-width:100%;
+		
+	}
+.boxes3{
+	width:50%;
+	float:left;
+	
+	}
+	#mainDiv3{
+		width:50%;
+      margin-left:190px;
+	  margin-bottom:50px;
+	}
+	img{
+		max-width:100%;
+		
+		
+	}
+
+
+.cars h4{
+    font-family: cooper;
+    font-weight: 400;
+    font-size: 2em;
+	margin-top:170px;
+	margin-bottom:70px;
+    margin-left: 0px;
+	color:black;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
